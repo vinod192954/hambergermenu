@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.website-logo {
+  height: 50px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.menu {
+  font-size: 35px;
+}
+.line {
+  color: #dcdcdc;
+}
+.model-container {
+  height: 100vh;
+  background-color: #ffffff;
+  width: 90%;
+}
